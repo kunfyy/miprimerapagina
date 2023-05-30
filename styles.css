@@ -178,3 +178,7 @@ text-align: center;
   .navbar {
     display:flex;
   }
+
+  .greeting {
+    text-align: center;
+  }
